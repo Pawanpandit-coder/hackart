@@ -1,4 +1,4 @@
-# MERN Project for hackers lovers simple with various hacking new tools and technologies.
+# MERN Project for hackers lovers simple with various undergoing hacking new tools and technologies.
 
 ## Tech Stack
 - MongoDB
@@ -32,3 +32,4 @@ npm run dev
 3. Create `.env` file
 4. Add MongoDB URI
 5. Run `npm run dev`
+
